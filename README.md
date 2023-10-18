@@ -1,2 +1,2 @@
-# ICDEsubmission1
-ICDEsubmission1
+# RCKT
+Release code of RCKT: Interpretable Knowledge Tracing via Response Influence-based Counterfactual Reasoning
